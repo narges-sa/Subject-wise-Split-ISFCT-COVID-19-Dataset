@@ -16,6 +16,8 @@ Figure 2: Distribution of CT slices in each sub classes (8 characteristic lung f
 
 The Dataset can be observed in: [Link](https://drive.google.com/drive/folders/1wAO8Dof44lmcNieWtCpU-LTEiqxpyuAA?usp=sharing) 
 
+The utilized and newly designed DL models are freely available for further comparison by researchers in this [Link](https://github.com/ShivaP69/Investigation_bias_deepCOVID).
+
 # References
 1.	Misztal, K., et al., The importance of standardisation–COVID-19 CT & Radiograph Image Data Stock for deep learning purpose. Computers in Biology and Medicine, 2020. 127: p. 104092.
 2.	Gunderman, R.B., Essential radiology. Clinical presentation, pathophysiology, imaging. 2. 2006.
