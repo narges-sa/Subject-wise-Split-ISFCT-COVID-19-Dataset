@@ -35,9 +35,9 @@ If you find this work useful, you can refer our work as:
 
 author={ Shiva ParsaRad** , Narges Saeedizadeh**, Shamim Shafieyoon ,Ghazaleh Jamalipour Soufi, Amir Yousefi, Samira Soleimany, Farzaneh Hekmatnia , Andrew Parviz Zarei, Hengameh Nazari, Pegah Torabi , Ali Hekmatnia, Hossein Rabbani, Rahele Kafieh*},
 
-* Corresponding author Rahele Kafieh (rkafieh@gmail.com)
-* 
-** Shiva ParsaRad and Narges Saeedizade have the same contribution.
+*Corresponding author Rahele Kafieh (rkafieh@gmail.com)
+
+**Shiva ParsaRad and Narges Saeedizadeh have the same contribution.
 
 journal={},
 
