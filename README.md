@@ -1,4 +1,4 @@
-# Data Set
+# DataSet
 A range of characteristic lung features are already kwon for COVID-19, including Ground-Glass Opacity (F1), Peripheral (F2), Central (F3), Peribronchovascular (F4),  Consolidation (F5), Reverse Halo (F6), Crazy paving (F7), and Atelectasis (F8) (8 subclasses) [1]. These radiological patterns are significant for determining the severity of COVID-19 [7], however in previous AI-based studies, such detailed features are all merged in existence or absence of COVID-19. To address this issue, in ISFCT Dataset, 8 characteristic lung features and existence of in right (R) or left (L) lung is marked for each CT slice. figure 1 and Table 2 demonstrate summary and samples of the features. In binary classificiation where only health and COVID-19 is considered, the COVID-19 label is assigned according to presence of F1-R or F1-L, as it is prevalent in other published works.
 
 ![image](https://user-images.githubusercontent.com/66547627/173172437-cd4fc674-957f-4f0a-9007-081c5da87b47.png)
